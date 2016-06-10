@@ -1,7 +1,7 @@
 # Site
 title:              StayTherapy.
 bio:                "StayTherapy's Blog."
-description:        "为了Blog!! --staytherapy."
+description:        "为了Blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -39,10 +39,11 @@ sass:
   #ad-slot:
 #bing-verify:
 #email:
+github:             staytherapy
+# misktake for weibo account: liongmagezi -> liongmagzi
+weibo:              liongmagzi
 twitter:            MageeMeng
 facebook:           magee.zl
-github:             staytherapy
-weibo:              liongmagezi
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
